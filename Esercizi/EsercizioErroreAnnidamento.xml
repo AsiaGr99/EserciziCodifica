@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!--realizzazione di un esercizio che non è annidato correttamente-->
+
+<noNested>
+    <nested>
+        Testo di prova
+    </nested>
+
+    <nested1>
+        <errore>
+            Ecco l'errore
+        </errore>
+    </nested1>
+        
+
+</noNested>
