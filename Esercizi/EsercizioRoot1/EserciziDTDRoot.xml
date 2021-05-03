@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+    <TEI> <!-- Si definisice l'elemento radice -->
+
+        <header> </header>
+        <facsimile> </facsimile>         <!-- definisco gli elementi figli-->
+        <text>
+        </text>                  <!-- i vincoli devono però essere definiti nella DTD-->
+
+    </TEI> 

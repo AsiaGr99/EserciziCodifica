@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE TEI SYSTEM "./regoledtd.dtd">
+
+    <TEI> <!-- Si definisice l'elemento radice -->
+
+        <header type="intest" lang="ITA"> 
+            Questa è la mia intestazione
+        </header>
+        <facsimile source="fonte"> 
+            Questo è il mio facsimile
+        </facsimile>         <!-- definisco gli elementi figli-->
+        <text id="2">
+        Questp è un testo 
+             <seg> </seg>
+        Ciao
+        </text>                  <!-- i vincoli devono però essere definiti nella DTD-->
+
+    </TEI> 
